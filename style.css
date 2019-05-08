@@ -447,7 +447,7 @@ img {
     .header-area .credit-main-menu .classy-nav-container {
       background-color: transparent; }
     .header-area .credit-main-menu .classy-navbar {
-      height: 65px;
+      height: 75px;
       padding: 0;
       background-color: #003679; }
       @media only screen and (max-width: 767px) {
@@ -495,13 +495,13 @@ img {
       .header-area .credit-main-menu .classy-navbar .contact {
         position: relative;
         z-index: 1;
-        padding-left: 30px;
+        padding-left: 50px;
         height: 100%;
         overflow-y: hidden;
         overflow-x: hidden; }
         .header-area .credit-main-menu .classy-navbar .contact::before {
-          width: 100%;
-          height: 200%;
+          width: 90%;
+          height: 240%;
           content: '';
           position: absolute;
           top: 42%;
@@ -523,8 +523,8 @@ img {
           display: inline-block;
           font-size: 24px;
           color: #003679;
-          font-weight: 600;
-          line-height: 65px; }
+          font-weight: 700;
+          line-height: 85px; }
           .header-area .credit-main-menu .classy-navbar .contact a:hover {
             color: #ffffff; }
           @media only screen and (min-width: 992px) and (max-width: 1199px) {
